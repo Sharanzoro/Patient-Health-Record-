@@ -1,0 +1,501 @@
+Name,Age,Gender,Contact,Past Illnesses,Surgeries,Family Medical History,Lab Results,Systolic BP,Diastolic BP,Temperature (°F),Heart Rate,Oxygen Saturation
+Priya Choudhary,57,Male,+91 9873168435,None,Cataract Surgery,Heart Disease,Abnormal,176.55,80.82,99.3,113,93
+Aditya Choudhary,65,Male,+91 9822052490,Diabetes,Cataract Surgery,None,Slightly Abnormal,151.53,62.31,98.5,102,92
+Rohan Bose,39,Female,+91 9817415000,Asthma,Bypass Surgery,None,Normal,160.34,106.7,99.9,92,94
+Kabir Nair,29,Male,+91 9822615656,Hypertension,Cataract Surgery,Hypertension,Slightly Abnormal,112.36,75.27,101.2,68,97
+Vivaan Mehta,21,Female,+91 9826269435,None,Appendectomy,None,Slightly Abnormal,167.96,85.68,101,98,99
+Ishita Bose,35,Male,+91 9882356830,Hypertension,Gallbladder Removal,Cancer,Slightly Abnormal,98.79,109.88,100.1,92,92
+Priya Patel,73,Male,+91 9834962985,Diabetes,Cataract Surgery,Hypertension,Normal,108.12,62.75,98.9,65,92
+Tanvi Reddy,72,Female,+91 9880817948,Asthma,Cataract Surgery,Hypertension,Normal,98.63,63.98,99.4,108,100
+Aditya Gupta,78,Male,+91 9893462878,Heart Disease,None,Cancer,Normal,175.39,104.24,100.7,78,98
+Priya Nair,75,Female,+91 9866501976,None,None,Cancer,Normal,106.47,71.42,102,95,91
+Tanvi Verma,25,Female,+91 9832830862,Asthma,Bypass Surgery,None,Slightly Abnormal,102.31,85.88,101.3,100,90
+Vivaan Mehta,80,Male,+91 9821230709,Thyroid Disorder,Cataract Surgery,Heart Disease,Slightly Abnormal,108.14,96.07,98.6,67,91
+Aditya Patel,32,Female,+91 9814553978,None,Bypass Surgery,Heart Disease,Normal,143.97,81.98,101.6,86,98
+Tanvi Bose,73,Male,+91 9813549938,Diabetes,None,None,Normal,142.58,77.81,100.4,106,94
+Aarav Patel,47,Male,+91 9828256246,Thyroid Disorder,None,Cancer,Abnormal,108.66,91.52,100.7,94,97
+Tanvi Bose,73,Male,+91 9850468122,Thyroid Disorder,Bypass Surgery,Diabetes,Abnormal,149.87,92.62,100.3,101,91
+Sneha Mehta,50,Male,+91 9813701889,Diabetes,Bypass Surgery,Heart Disease,Normal,169.55,90.5,99.5,63,90
+Priya Reddy,25,Male,+91 9871017130,Asthma,None,Hypertension,Normal,91.99,104.17,99.4,64,94
+Aarav Gupta,62,Female,+91 9824709952,None,Gallbladder Removal,Cancer,Abnormal,147.79,84.68,98.2,96,92
+Anaya Gupta,63,Male,+91 9875485533,Diabetes,None,Cancer,Slightly Abnormal,161.62,105.08,97.5,81,100
+Ishita Reddy,21,Male,+91 9838088762,Asthma,Cataract Surgery,Heart Disease,Abnormal,171.58,104.97,101,99,97
+Tanvi Nair,38,Male,+91 9813981568,None,Gallbladder Removal,Diabetes,Normal,164.31,93.2,98,74,99
+Priya Nair,19,Female,+91 9818964236,Asthma,None,Hypertension,Normal,134.22,108.86,99.5,104,99
+Rohan Bose,22,Female,+91 9853881477,Thyroid Disorder,Bypass Surgery,Heart Disease,Abnormal,115.71,72.63,97.6,72,91
+Priya Choudhary,52,Male,+91 9832831540,Thyroid Disorder,Bypass Surgery,None,Slightly Abnormal,143.91,93.07,97.4,104,91
+Vivaan Gupta,72,Female,+91 9885090675,None,Bypass Surgery,Diabetes,Abnormal,120.12,103.32,98,99,98
+Rohan Reddy,70,Female,+91 9828232964,Diabetes,Cataract Surgery,None,Normal,121.52,70.88,100.3,76,91
+Anaya Sharma,66,Male,+91 9812841659,Diabetes,Gallbladder Removal,Hypertension,Normal,155.63,71.35,99.9,70,94
+Kabir Bose,49,Female,+91 9859966742,Thyroid Disorder,None,Heart Disease,Normal,147.64,90.45,99.5,117,94
+Rohan Gupta,76,Male,+91 9840298009,Hypertension,Cataract Surgery,Cancer,Normal,141.79,83.06,100.8,102,100
+Kabir Iyer,31,Male,+91 9810107868,Heart Disease,Cataract Surgery,Diabetes,Normal,90.79,105.7,98.3,78,96
+Priya Verma,42,Female,+91 9847066998,None,None,None,Slightly Abnormal,159.83,97.77,97.4,98,93
+Kabir Iyer,44,Male,+91 9824719848,Asthma,Appendectomy,Cancer,Slightly Abnormal,136.1,62.12,101.4,118,100
+Anaya Mehta,25,Male,+91 9838689096,None,None,None,Abnormal,100.92,96.91,102.4,69,97
+Rohan Mehta,35,Male,+91 9878378175,Asthma,Appendectomy,Cancer,Abnormal,149.72,89.64,102.2,80,98
+Aditya Gupta,58,Female,+91 9881035777,Asthma,Gallbladder Removal,Heart Disease,Normal,121.71,83.93,97.3,62,94
+Kabir Choudhary,29,Female,+91 9814988461,Hypertension,Appendectomy,Diabetes,Abnormal,144.68,74.46,101.4,107,99
+Kabir Patel,22,Male,+91 9877206944,Heart Disease,Cataract Surgery,Cancer,Normal,90.31,61.39,98.7,63,97
+Kabir Bose,28,Male,+91 9864338963,Hypertension,Gallbladder Removal,Diabetes,Abnormal,163.88,97.51,100,86,95
+Anaya Gupta,56,Female,+91 9815576818,Hypertension,Gallbladder Removal,Hypertension,Slightly Abnormal,144.21,65.65,98.2,115,92
+Tanvi Patel,37,Female,+91 9833360514,Thyroid Disorder,Cataract Surgery,Diabetes,Slightly Abnormal,156.34,98.48,97.8,107,95
+Sneha Sharma,34,Female,+91 9837216178,Heart Disease,None,None,Normal,111.44,101.37,99.3,104,93
+Aarav Verma,56,Female,+91 9811567285,Asthma,Gallbladder Removal,Hypertension,Slightly Abnormal,124.32,106.76,101.8,79,91
+Tanvi Sharma,68,Male,+91 9842439575,Diabetes,Bypass Surgery,Cancer,Normal,100.56,88.76,99.1,93,95
+Priya Iyer,24,Female,+91 9883372669,Hypertension,None,Cancer,Normal,132.76,103.23,101.8,74,94
+Aarav Iyer,77,Male,+91 9881617838,None,Appendectomy,Heart Disease,Abnormal,104.04,72.84,101.2,86,90
+Rohan Patel,52,Male,+91 9851073815,Hypertension,Gallbladder Removal,Cancer,Abnormal,178.2,60.32,98.8,115,93
+Priya Patel,44,Male,+91 9886127481,Asthma,Bypass Surgery,Heart Disease,Abnormal,116.06,96.85,98.2,97,98
+Anaya Nair,65,Male,+91 9827398994,Hypertension,None,Cancer,Normal,134.55,100.3,100.2,73,92
+Anaya Sharma,57,Male,+91 9819436293,Asthma,Cataract Surgery,Diabetes,Abnormal,124.37,72.56,97.7,103,99
+Anaya Verma,25,Female,+91 9832928265,Diabetes,Appendectomy,Cancer,Abnormal,144.79,107.68,101.5,117,98
+Priya Gupta,68,Male,+91 9835833094,Diabetes,Appendectomy,None,Abnormal,154.95,93.02,101,89,97
+Vivaan Patel,37,Female,+91 9811598906,None,Bypass Surgery,None,Slightly Abnormal,174.99,97.08,97.1,96,95
+Sneha Nair,20,Female,+91 9890248433,Thyroid Disorder,Cataract Surgery,None,Slightly Abnormal,174.73,84.86,98.2,63,95
+Anaya Gupta,57,Male,+91 9873633042,None,None,Cancer,Abnormal,176.97,85.88,102.1,86,99
+Ishita Reddy,41,Female,+91 9871176897,None,Cataract Surgery,Cancer,Slightly Abnormal,172.49,61.02,99.1,89,96
+Sneha Gupta,75,Male,+91 9897332814,Asthma,Appendectomy,Cancer,Abnormal,118.29,68.26,102.2,113,90
+Vivaan Reddy,74,Female,+91 9859047014,Asthma,Appendectomy,Diabetes,Normal,163.02,105.36,97.3,101,90
+Sneha Verma,59,Male,+91 9838880707,Heart Disease,Bypass Surgery,Heart Disease,Slightly Abnormal,125.64,102.4,97.6,113,90
+Aarav Patel,22,Male,+91 9811709679,Asthma,Gallbladder Removal,Diabetes,Slightly Abnormal,134.29,68.8,102.2,96,93
+Ishita Nair,61,Male,+91 9853679476,Thyroid Disorder,Bypass Surgery,Hypertension,Slightly Abnormal,172.49,68.22,99,115,90
+Priya Mehta,53,Male,+91 9827946837,Thyroid Disorder,Cataract Surgery,Heart Disease,Abnormal,95.93,76.43,102.6,117,95
+Anaya Mehta,24,Male,+91 9862204425,Heart Disease,Bypass Surgery,Hypertension,Normal,168.07,60.91,103,70,97
+Tanvi Mehta,55,Male,+91 9884445041,Thyroid Disorder,Cataract Surgery,Cancer,Slightly Abnormal,91.25,93.96,101.6,80,94
+Priya Sharma,69,Male,+91 9898114307,Asthma,Gallbladder Removal,Diabetes,Normal,174.02,65.04,99.3,102,97
+Anaya Verma,43,Male,+91 9881475630,Thyroid Disorder,Appendectomy,None,Normal,100.98,66.7,102.3,60,99
+Tanvi Reddy,60,Male,+91 9848002406,Thyroid Disorder,Gallbladder Removal,Cancer,Abnormal,162.86,67.01,102.5,97,97
+Sneha Gupta,31,Male,+91 9869567197,Thyroid Disorder,None,None,Slightly Abnormal,106.93,61.97,97.5,110,92
+Aditya Bose,28,Female,+91 9894652269,Asthma,Cataract Surgery,Diabetes,Normal,96.85,65.36,102.5,73,96
+Priya Nair,56,Female,+91 9817852645,Diabetes,None,None,Slightly Abnormal,139.44,94.73,99.8,99,94
+Vivaan Nair,41,Male,+91 9884937903,Hypertension,Cataract Surgery,Heart Disease,Abnormal,114.87,72.79,98.2,64,94
+Aarav Nair,68,Male,+91 9886524259,Hypertension,Cataract Surgery,Heart Disease,Abnormal,124.76,73.26,101.9,86,91
+Priya Gupta,55,Male,+91 9895352775,Hypertension,None,Heart Disease,Normal,162.89,80.69,99,106,90
+Sneha Gupta,50,Female,+91 9890663980,Diabetes,None,Hypertension,Abnormal,122.48,102.02,100.3,71,90
+Sneha Gupta,22,Male,+91 9873166581,Thyroid Disorder,Bypass Surgery,Diabetes,Slightly Abnormal,137.6,81.81,99.6,62,95
+Rohan Choudhary,29,Female,+91 9880307542,Asthma,Bypass Surgery,Heart Disease,Slightly Abnormal,143.41,64.25,99.3,101,90
+Tanvi Sharma,44,Female,+91 9880109562,Heart Disease,Gallbladder Removal,Diabetes,Slightly Abnormal,110.21,92.6,101.3,60,100
+Sneha Iyer,63,Male,+91 9892198440,Thyroid Disorder,None,Diabetes,Slightly Abnormal,109.04,83.83,98.3,78,93
+Kabir Choudhary,20,Female,+91 9866244523,Hypertension,Appendectomy,Cancer,Normal,172.34,107.01,98.7,74,97
+Rohan Nair,68,Male,+91 9854089844,Hypertension,Gallbladder Removal,Heart Disease,Normal,132.56,73.22,97.7,100,92
+Ishita Sharma,35,Female,+91 9822881029,Heart Disease,None,Cancer,Normal,174.16,74.95,97.9,111,93
+Tanvi Patel,36,Male,+91 9874404647,Heart Disease,Appendectomy,None,Normal,163.48,78.02,100.9,78,99
+Tanvi Verma,46,Male,+91 9819142533,Diabetes,Appendectomy,Heart Disease,Normal,99.78,73.43,101,119,98
+Aarav Nair,32,Female,+91 9835909352,None,None,Hypertension,Abnormal,114.49,71.24,99.2,100,98
+Rohan Reddy,48,Female,+91 9852511267,Heart Disease,Cataract Surgery,Cancer,Abnormal,113.56,86.13,100.4,92,99
+Rohan Gupta,65,Male,+91 9858285495,Thyroid Disorder,Cataract Surgery,Cancer,Normal,93.94,102.07,101.5,107,98
+Tanvi Verma,57,Female,+91 9818701516,Thyroid Disorder,Bypass Surgery,Cancer,Abnormal,117.05,62.54,98.8,76,90
+Vivaan Bose,76,Female,+91 9838217530,Thyroid Disorder,Bypass Surgery,Hypertension,Abnormal,131.08,107.1,101.1,104,96
+Aditya Iyer,53,Female,+91 9885310653,Diabetes,None,Hypertension,Normal,139.8,108.08,99.7,112,99
+Rohan Gupta,54,Male,+91 9822659990,Hypertension,Appendectomy,None,Abnormal,154.51,60.05,101.3,110,99
+Aarav Sharma,55,Male,+91 9891588431,Asthma,Gallbladder Removal,Hypertension,Slightly Abnormal,126.74,107.26,102.4,80,99
+Vivaan Mehta,52,Male,+91 9860083705,Diabetes,None,Heart Disease,Slightly Abnormal,94.3,96.17,101.4,84,94
+Anaya Reddy,64,Male,+91 9870358955,Hypertension,Appendectomy,Cancer,Abnormal,129.1,87.33,99.5,67,94
+Anaya Sharma,20,Female,+91 9898993571,Diabetes,None,Hypertension,Slightly Abnormal,157.32,79.75,99.2,61,97
+Tanvi Nair,37,Male,+91 9883628302,Hypertension,Appendectomy,None,Slightly Abnormal,126.22,68.68,99.1,83,92
+Priya Iyer,64,Male,+91 9872625288,None,Cataract Surgery,Hypertension,Normal,129.8,82.58,98.3,109,99
+Priya Gupta,50,Female,+91 9848253214,Hypertension,Appendectomy,Hypertension,Slightly Abnormal,129.39,86.29,100.3,61,96
+Sneha Sharma,46,Male,+91 9838384700,Asthma,Appendectomy,Hypertension,Abnormal,148.39,86.05,97.2,118,92
+Rohan Gupta,32,Female,+91 9877120794,Thyroid Disorder,None,Heart Disease,Abnormal,176.02,107.6,102.9,73,91
+Aarav Iyer,35,Female,+91 9898465549,Asthma,Bypass Surgery,Hypertension,Slightly Abnormal,107.43,103.4,97.6,80,99
+Vivaan Nair,21,Female,+91 9897713174,Thyroid Disorder,Bypass Surgery,Diabetes,Abnormal,157.37,79.04,100.8,111,98
+Rohan Mehta,53,Male,+91 9856996921,Diabetes,Cataract Surgery,None,Slightly Abnormal,170.45,90.71,101.2,102,97
+Tanvi Bose,64,Male,+91 9810169894,Hypertension,Gallbladder Removal,Hypertension,Abnormal,165.06,81.38,101.8,60,100
+Ishita Bose,26,Female,+91 9812255353,Asthma,None,Diabetes,Normal,121.36,97.83,102,114,91
+Tanvi Choudhary,50,Male,+91 9838711513,Hypertension,None,Hypertension,Normal,158.48,68.37,100.4,111,94
+Sneha Reddy,36,Female,+91 9850042390,Asthma,Gallbladder Removal,Diabetes,Normal,157.57,64.48,98.8,78,97
+Rohan Sharma,78,Female,+91 9811401994,Heart Disease,Bypass Surgery,Cancer,Slightly Abnormal,171.02,100.97,97.5,62,96
+Aarav Mehta,78,Male,+91 9848066547,Diabetes,Appendectomy,None,Abnormal,167.3,78.01,102.8,66,92
+Sneha Gupta,18,Male,+91 9825533456,None,Appendectomy,None,Slightly Abnormal,150.29,94.13,99.4,88,96
+Rohan Gupta,68,Female,+91 9861915291,Hypertension,Appendectomy,None,Normal,105.43,107.7,102.5,71,90
+Sneha Reddy,26,Female,+91 9888006617,Asthma,None,Cancer,Abnormal,119.36,64.46,98.5,89,99
+Priya Reddy,50,Female,+91 9855550569,Hypertension,None,Hypertension,Abnormal,146.81,96,98.3,97,96
+Vivaan Iyer,44,Male,+91 9890710341,None,None,Hypertension,Normal,170.67,103.57,102.4,118,96
+Sneha Gupta,34,Female,+91 9836168555,Hypertension,Gallbladder Removal,Heart Disease,Normal,165.65,81.05,97.4,76,93
+Kabir Bose,76,Male,+91 9829978958,Heart Disease,Appendectomy,Cancer,Slightly Abnormal,173.13,68.37,99.1,104,92
+Anaya Nair,70,Male,+91 9881437749,None,Cataract Surgery,Hypertension,Abnormal,143.81,62.19,102.3,83,100
+Aarav Nair,74,Female,+91 9840682667,None,Bypass Surgery,Diabetes,Abnormal,107.67,101.15,99.3,83,96
+Aarav Reddy,57,Male,+91 9868149631,Hypertension,Bypass Surgery,None,Abnormal,122.38,94.32,99.2,91,93
+Aarav Mehta,76,Male,+91 9842206518,Hypertension,Cataract Surgery,Heart Disease,Normal,110.99,61.95,100.8,101,91
+Priya Iyer,51,Male,+91 9828863610,Heart Disease,Bypass Surgery,Heart Disease,Abnormal,130.56,84.09,100.8,84,91
+Priya Bose,55,Male,+91 9880836634,None,Gallbladder Removal,Diabetes,Slightly Abnormal,112.64,67.51,102.7,92,90
+Ishita Choudhary,22,Male,+91 9874952738,Heart Disease,Cataract Surgery,None,Slightly Abnormal,124.14,99.61,97.1,84,96
+Sneha Choudhary,37,Female,+91 9848702667,Asthma,Bypass Surgery,Heart Disease,Slightly Abnormal,99.62,92.97,101.7,60,94
+Kabir Gupta,57,Male,+91 9888861735,Heart Disease,Cataract Surgery,Diabetes,Normal,107.27,78.11,100.4,72,93
+Aditya Nair,68,Female,+91 9814098734,Asthma,None,Diabetes,Slightly Abnormal,160.18,82.74,101.7,79,96
+Ishita Choudhary,44,Female,+91 9880611707,Diabetes,Appendectomy,Heart Disease,Abnormal,99.88,78.66,102.5,95,95
+Ishita Bose,77,Male,+91 9818624711,Heart Disease,Appendectomy,Cancer,Abnormal,109.64,108.86,97.7,98,100
+Tanvi Patel,64,Female,+91 9859585239,None,Bypass Surgery,Heart Disease,Abnormal,159.99,67.52,101.4,114,97
+Rohan Bose,76,Female,+91 9834288622,None,None,Hypertension,Slightly Abnormal,162.32,99.52,102.8,108,92
+Rohan Bose,30,Male,+91 9811214627,None,None,Hypertension,Abnormal,155.65,78.64,98.3,114,92
+Priya Mehta,29,Male,+91 9855535831,Asthma,Gallbladder Removal,Diabetes,Slightly Abnormal,158.73,61.64,98.7,96,91
+Tanvi Patel,42,Female,+91 9899972808,Thyroid Disorder,Cataract Surgery,None,Slightly Abnormal,156.42,92.71,101.9,100,96
+Ishita Patel,76,Female,+91 9880162268,Heart Disease,Gallbladder Removal,Diabetes,Slightly Abnormal,160.86,109.77,98.9,68,99
+Priya Mehta,32,Male,+91 9880756888,Diabetes,Cataract Surgery,Hypertension,Abnormal,139.32,88.92,102.3,87,93
+Aarav Iyer,61,Female,+91 9835709213,Heart Disease,Appendectomy,Heart Disease,Normal,178.33,74.72,97.6,86,93
+Tanvi Nair,18,Male,+91 9845852148,Hypertension,Cataract Surgery,Diabetes,Normal,170.7,80.57,101.5,80,100
+Ishita Gupta,53,Male,+91 9858322742,Thyroid Disorder,Gallbladder Removal,None,Normal,130.99,68.05,100.4,88,99
+Aditya Iyer,33,Female,+91 9881649776,Heart Disease,Appendectomy,None,Abnormal,104.2,86.55,101.4,105,96
+Rohan Iyer,63,Female,+91 9812073344,Thyroid Disorder,Cataract Surgery,Cancer,Normal,116.78,99.02,99.1,88,96
+Aarav Bose,45,Male,+91 9813110408,Asthma,Appendectomy,Diabetes,Abnormal,149.31,100.84,102.1,107,97
+Sneha Gupta,52,Female,+91 9822938333,Diabetes,Cataract Surgery,None,Slightly Abnormal,117.13,84.63,97.2,95,98
+Kabir Verma,48,Male,+91 9858846742,Diabetes,Cataract Surgery,Diabetes,Slightly Abnormal,106.74,102.04,100.8,71,93
+Anaya Bose,21,Male,+91 9846990352,Heart Disease,Bypass Surgery,Heart Disease,Abnormal,123.7,88.66,102.1,79,95
+Tanvi Sharma,76,Female,+91 9859064044,Hypertension,Cataract Surgery,Cancer,Slightly Abnormal,103.63,90.88,98.5,63,90
+Priya Gupta,22,Male,+91 9861735197,Diabetes,Appendectomy,None,Abnormal,170,83.35,99.6,75,100
+Tanvi Choudhary,19,Female,+91 9866066966,Diabetes,Appendectomy,Hypertension,Slightly Abnormal,156.4,64.54,100.7,60,90
+Aarav Gupta,77,Female,+91 9830096133,Thyroid Disorder,Appendectomy,Diabetes,Abnormal,138.47,66.65,99.5,118,97
+Rohan Nair,75,Female,+91 9860107427,Hypertension,Cataract Surgery,None,Normal,157.64,61.82,99.4,85,93
+Priya Sharma,21,Male,+91 9811503064,Heart Disease,Bypass Surgery,Hypertension,Normal,152.17,84.05,100,82,98
+Sneha Verma,52,Female,+91 9894512715,Diabetes,Bypass Surgery,Cancer,Slightly Abnormal,169.74,72.31,101.9,83,90
+Tanvi Patel,21,Male,+91 9874080291,Asthma,Gallbladder Removal,Heart Disease,Abnormal,158.96,75.1,100,81,95
+Kabir Reddy,38,Male,+91 9845971671,Diabetes,Appendectomy,Hypertension,Slightly Abnormal,99.12,76.44,99.7,78,100
+Priya Choudhary,53,Male,+91 9840089427,Diabetes,Gallbladder Removal,None,Abnormal,147.77,76.83,101,85,97
+Rohan Choudhary,23,Male,+91 9860160970,Hypertension,Gallbladder Removal,Cancer,Slightly Abnormal,103.08,95.97,102.1,116,93
+Anaya Patel,50,Male,+91 9838495230,None,Bypass Surgery,None,Slightly Abnormal,144.37,89.95,99.9,83,93
+Sneha Patel,41,Male,+91 9821292844,Hypertension,None,Cancer,Slightly Abnormal,134.73,81.1,99.8,78,92
+Sneha Reddy,22,Female,+91 9867805860,Thyroid Disorder,Bypass Surgery,Diabetes,Slightly Abnormal,94.96,64.14,97.2,64,95
+Aarav Iyer,66,Female,+91 9876107496,Heart Disease,Gallbladder Removal,Diabetes,Normal,126.41,104.56,101.4,101,94
+Aditya Nair,27,Male,+91 9896948222,Thyroid Disorder,Appendectomy,Hypertension,Slightly Abnormal,94.56,76.16,102.3,74,99
+Sneha Sharma,55,Female,+91 9859243814,Asthma,Cataract Surgery,Heart Disease,Slightly Abnormal,175.68,82.6,102.1,60,96
+Kabir Bose,80,Male,+91 9844469705,Hypertension,Cataract Surgery,None,Abnormal,125.87,73.17,101,68,96
+Ishita Verma,73,Female,+91 9829173577,Hypertension,Gallbladder Removal,Cancer,Abnormal,125.12,91.05,102.6,85,93
+Kabir Choudhary,24,Male,+91 9820079449,Diabetes,None,Heart Disease,Slightly Abnormal,92.86,81.4,100.5,101,98
+Tanvi Verma,19,Female,+91 9849146252,Thyroid Disorder,Bypass Surgery,None,Abnormal,122.97,63.97,99.6,63,97
+Vivaan Reddy,73,Male,+91 9840740886,Hypertension,Appendectomy,Cancer,Slightly Abnormal,131.69,107.5,100.1,77,100
+Priya Sharma,47,Female,+91 9896090932,Heart Disease,Gallbladder Removal,Heart Disease,Slightly Abnormal,125.49,68.89,97.5,66,97
+Kabir Gupta,32,Female,+91 9853377803,Hypertension,None,Diabetes,Abnormal,170.44,73.95,101.5,79,93
+Aditya Choudhary,19,Male,+91 9868968414,Asthma,None,Heart Disease,Slightly Abnormal,178.87,90.24,98.5,77,91
+Anaya Choudhary,72,Male,+91 9867463081,Thyroid Disorder,Appendectomy,Heart Disease,Normal,152.86,104.59,98,71,94
+Kabir Verma,53,Male,+91 9856969273,Hypertension,Cataract Surgery,Hypertension,Abnormal,104.69,65.31,100.2,88,95
+Kabir Bose,45,Male,+91 9851883276,None,None,Cancer,Slightly Abnormal,121.77,61.18,102.1,75,94
+Tanvi Sharma,70,Male,+91 9863852348,Heart Disease,Bypass Surgery,Diabetes,Normal,156.98,64.19,98.7,106,91
+Anaya Mehta,49,Male,+91 9855184192,None,Bypass Surgery,None,Abnormal,166.67,75.15,101,91,93
+Aarav Reddy,52,Male,+91 9870662174,Heart Disease,Cataract Surgery,None,Slightly Abnormal,104.06,109.5,99,108,96
+Kabir Patel,44,Male,+91 9899559053,None,Cataract Surgery,Cancer,Normal,115.6,81.77,100.6,65,92
+Aditya Reddy,23,Female,+91 9888444068,Diabetes,Cataract Surgery,None,Normal,161.3,78.85,102.3,68,100
+Rohan Patel,32,Male,+91 9850521612,Heart Disease,Bypass Surgery,Heart Disease,Abnormal,104.19,87,97.6,115,96
+Rohan Verma,71,Male,+91 9896922544,Asthma,Gallbladder Removal,None,Normal,164.52,105.98,100.9,61,99
+Ishita Iyer,67,Female,+91 9888392410,Heart Disease,Gallbladder Removal,None,Slightly Abnormal,116.06,73.72,99.1,107,90
+Aditya Iyer,18,Female,+91 9888244452,Thyroid Disorder,Appendectomy,None,Normal,166.88,86.79,100.1,118,91
+Tanvi Bose,26,Female,+91 9840428583,Heart Disease,Gallbladder Removal,Diabetes,Slightly Abnormal,103.33,83.84,98.4,76,95
+Aarav Gupta,62,Female,+91 9835097954,Heart Disease,None,None,Normal,123.24,69.3,98.7,84,91
+Ishita Reddy,70,Female,+91 9887924815,Hypertension,Cataract Surgery,None,Slightly Abnormal,117.2,60.05,101,97,93
+Aditya Reddy,28,Female,+91 9845844802,Heart Disease,Bypass Surgery,Diabetes,Abnormal,113.82,77.48,102,78,98
+Anaya Iyer,66,Male,+91 9848688903,Thyroid Disorder,Gallbladder Removal,Hypertension,Abnormal,117.36,101.75,97.9,113,95
+Aarav Patel,32,Male,+91 9882099966,Asthma,Appendectomy,None,Normal,160.15,102.65,101.2,101,90
+Aditya Nair,32,Male,+91 9833773555,None,Cataract Surgery,Diabetes,Abnormal,97.53,94.1,97.8,82,99
+Vivaan Verma,57,Male,+91 9886021447,Hypertension,Cataract Surgery,Diabetes,Normal,94.09,60.28,98.1,99,100
+Ishita Patel,54,Male,+91 9815558534,Diabetes,None,Cancer,Normal,109.74,76.7,100.8,99,97
+Anaya Iyer,72,Female,+91 9866997544,Heart Disease,Appendectomy,Cancer,Normal,152.4,101.65,98,76,99
+Aditya Patel,69,Male,+91 9855693067,Diabetes,Gallbladder Removal,Heart Disease,Slightly Abnormal,117.44,66.02,101.5,76,96
+Priya Nair,71,Male,+91 9815233062,Heart Disease,Cataract Surgery,Heart Disease,Normal,174.9,94.14,99,61,96
+Sneha Gupta,31,Male,+91 9850158643,Hypertension,Cataract Surgery,Heart Disease,Abnormal,94.79,87.81,102.4,102,94
+Priya Nair,27,Female,+91 9870011364,Asthma,Bypass Surgery,Cancer,Abnormal,145.89,104.42,100.3,101,92
+Priya Sharma,68,Female,+91 9888400174,Diabetes,Gallbladder Removal,Hypertension,Normal,96.5,88.33,98.1,83,96
+Ishita Verma,20,Male,+91 9844675655,Heart Disease,Gallbladder Removal,Diabetes,Normal,101.57,93.06,101.4,65,94
+Aarav Gupta,25,Male,+91 9838588486,Asthma,Gallbladder Removal,Cancer,Abnormal,160.33,61.1,102.3,109,100
+Tanvi Patel,18,Female,+91 9891565174,Diabetes,None,Heart Disease,Abnormal,116.34,70.93,99.9,105,100
+Sneha Reddy,57,Female,+91 9840790921,Hypertension,Appendectomy,None,Normal,157.88,109.6,97.8,104,91
+Priya Patel,73,Male,+91 9849828251,Diabetes,Gallbladder Removal,Cancer,Normal,154.16,88.25,98.5,83,95
+Priya Nair,31,Female,+91 9815575277,None,Gallbladder Removal,None,Normal,132.48,85.09,97.9,97,90
+Ishita Gupta,61,Female,+91 9822265194,Heart Disease,Appendectomy,None,Normal,163.65,103.22,99,79,93
+Aarav Reddy,24,Male,+91 9855629692,Heart Disease,Cataract Surgery,None,Slightly Abnormal,110.27,85.87,97.5,86,95
+Aditya Mehta,20,Male,+91 9895724433,Heart Disease,Bypass Surgery,Cancer,Abnormal,155.17,89.89,98.7,90,91
+Kabir Bose,49,Male,+91 9899938553,Thyroid Disorder,Appendectomy,Cancer,Slightly Abnormal,170.24,102.84,97.5,67,95
+Aditya Nair,21,Female,+91 9826582553,Diabetes,Bypass Surgery,Diabetes,Normal,132.96,98.37,99.8,92,92
+Ishita Sharma,56,Female,+91 9878269546,Diabetes,None,Hypertension,Slightly Abnormal,111.23,66.21,97.5,79,92
+Priya Iyer,30,Male,+91 9877979800,Hypertension,None,Diabetes,Slightly Abnormal,129.37,87.59,97.5,76,96
+Sneha Choudhary,65,Female,+91 9829986315,Asthma,Gallbladder Removal,None,Abnormal,166.91,86.45,100.3,86,95
+Aditya Bose,29,Male,+91 9855496120,Thyroid Disorder,Bypass Surgery,Cancer,Normal,171.6,94.69,102.6,117,94
+Anaya Verma,26,Female,+91 9821140285,Asthma,Gallbladder Removal,Cancer,Slightly Abnormal,165.05,69.93,99.8,117,91
+Anaya Bose,40,Female,+91 9839085025,Heart Disease,Appendectomy,Diabetes,Normal,132.29,69.58,98.9,114,94
+Anaya Sharma,48,Male,+91 9897914647,Hypertension,Bypass Surgery,Heart Disease,Slightly Abnormal,164.67,98.8,100.4,63,93
+Rohan Choudhary,68,Male,+91 9891205993,Heart Disease,None,Heart Disease,Slightly Abnormal,178.69,81.32,101.9,120,100
+Priya Mehta,57,Male,+91 9845595588,Diabetes,Bypass Surgery,None,Abnormal,126.04,67.13,102.1,87,94
+Kabir Bose,68,Male,+91 9841126531,Asthma,Bypass Surgery,Heart Disease,Normal,135.6,97.01,102,96,99
+Tanvi Nair,18,Male,+91 9833394940,Diabetes,Cataract Surgery,None,Abnormal,104.92,100.96,98.6,70,96
+Rohan Mehta,48,Female,+91 9817902793,None,Appendectomy,Heart Disease,Slightly Abnormal,94.56,105.42,101.5,117,92
+Aarav Reddy,39,Female,+91 9836100309,Hypertension,Gallbladder Removal,Diabetes,Slightly Abnormal,169.75,75.34,101.1,71,98
+Anaya Sharma,21,Male,+91 9845151776,Thyroid Disorder,None,Hypertension,Normal,90.08,76.15,98.9,65,91
+Kabir Reddy,32,Female,+91 9838585460,Hypertension,None,Heart Disease,Slightly Abnormal,173.26,92.42,101.2,111,90
+Aditya Sharma,73,Male,+91 9879272372,None,Bypass Surgery,Heart Disease,Slightly Abnormal,124.53,92.81,102.7,64,100
+Anaya Patel,49,Female,+91 9812117855,Hypertension,Appendectomy,None,Normal,163.81,76.74,102.4,93,98
+Aditya Verma,80,Male,+91 9894717778,None,None,Heart Disease,Slightly Abnormal,133.11,94.08,98.2,118,90
+Kabir Mehta,63,Female,+91 9814858445,Diabetes,Cataract Surgery,Cancer,Slightly Abnormal,131.07,70.73,100.2,97,90
+Ishita Nair,37,Male,+91 9861256001,Heart Disease,Bypass Surgery,None,Normal,155.62,86.71,102.6,62,100
+Sneha Verma,59,Male,+91 9822929583,None,Bypass Surgery,Heart Disease,Abnormal,119.63,100.87,97.6,117,97
+Aarav Sharma,46,Female,+91 9842533119,None,Gallbladder Removal,Cancer,Slightly Abnormal,110.67,83.83,97.4,75,97
+Tanvi Reddy,55,Male,+91 9899333953,Heart Disease,Gallbladder Removal,Heart Disease,Abnormal,166.12,64.98,102.8,108,99
+Anaya Verma,41,Male,+91 9832881276,Hypertension,Bypass Surgery,Cancer,Normal,95.69,79.58,98.9,102,99
+Vivaan Iyer,76,Male,+91 9847154307,Diabetes,None,Cancer,Abnormal,117.45,105.9,101,108,94
+Vivaan Choudhary,22,Male,+91 9853927386,None,Bypass Surgery,Hypertension,Abnormal,122.95,79.95,97.3,66,93
+Kabir Bose,52,Female,+91 9834787429,None,None,Hypertension,Normal,97.57,71.8,99.7,61,98
+Vivaan Mehta,48,Female,+91 9827585485,Thyroid Disorder,Appendectomy,Cancer,Normal,158.66,99.66,99.1,61,100
+Tanvi Choudhary,44,Male,+91 9829479449,None,None,Hypertension,Abnormal,152.25,86.02,99,69,96
+Tanvi Mehta,58,Female,+91 9881853013,Hypertension,Cataract Surgery,Diabetes,Abnormal,111.07,70.06,100.9,95,95
+Sneha Reddy,46,Female,+91 9894650845,Heart Disease,Cataract Surgery,Cancer,Normal,123.52,72.56,98.9,88,97
+Aditya Verma,50,Female,+91 9884693926,Heart Disease,Cataract Surgery,Hypertension,Normal,131.27,73.02,100.4,103,100
+Priya Iyer,71,Female,+91 9826732502,Heart Disease,Bypass Surgery,Hypertension,Abnormal,153.62,69.82,98.1,76,93
+Sneha Nair,39,Male,+91 9830933278,Hypertension,Bypass Surgery,Hypertension,Normal,128.19,108.31,102.3,68,91
+Priya Bose,31,Female,+91 9878448727,Heart Disease,Bypass Surgery,Hypertension,Abnormal,105.17,87.85,99.4,113,99
+Ishita Patel,53,Male,+91 9825350396,Asthma,Bypass Surgery,Diabetes,Abnormal,103.87,79.02,100.4,87,98
+Sneha Choudhary,75,Male,+91 9883945465,Thyroid Disorder,Cataract Surgery,Cancer,Abnormal,137.26,72.67,98.7,106,94
+Rohan Iyer,36,Male,+91 9822551760,None,Cataract Surgery,Cancer,Abnormal,115.92,98.34,101.9,75,100
+Kabir Nair,30,Female,+91 9824866057,Heart Disease,None,None,Slightly Abnormal,130.33,105.07,97.5,90,96
+Anaya Choudhary,59,Female,+91 9810984485,Hypertension,Cataract Surgery,Hypertension,Abnormal,128.31,90.8,99.7,87,90
+Kabir Patel,28,Female,+91 9855481237,Thyroid Disorder,Cataract Surgery,Diabetes,Normal,105.56,79.69,100.2,66,91
+Tanvi Gupta,32,Male,+91 9852738472,Heart Disease,Cataract Surgery,None,Normal,107.06,61.99,97,81,100
+Sneha Sharma,41,Female,+91 9842543212,Hypertension,Gallbladder Removal,Cancer,Slightly Abnormal,158.57,109.46,99.5,89,99
+Sneha Reddy,29,Male,+91 9829444272,Heart Disease,Cataract Surgery,Cancer,Normal,127.05,86.05,101.4,91,93
+Priya Iyer,22,Male,+91 9898864451,Asthma,None,None,Abnormal,93.89,75.87,101.4,93,93
+Rohan Reddy,35,Male,+91 9859871628,Diabetes,None,Diabetes,Normal,119.72,65.02,98.6,115,96
+Priya Nair,19,Female,+91 9859695880,None,None,Diabetes,Abnormal,139.57,86.47,98.2,82,94
+Tanvi Bose,44,Male,+91 9865451576,Diabetes,None,Cancer,Normal,143.91,62.3,101.5,80,92
+Priya Bose,44,Male,+91 9875559089,Hypertension,None,Hypertension,Slightly Abnormal,148.54,90.58,100.9,84,93
+Priya Patel,52,Male,+91 9824602352,Asthma,Cataract Surgery,Cancer,Abnormal,153.23,80.35,101.5,112,96
+Aditya Mehta,50,Female,+91 9816000239,Hypertension,Bypass Surgery,Hypertension,Abnormal,164.08,88.15,102.6,71,100
+Vivaan Mehta,62,Male,+91 9896695507,Heart Disease,Cataract Surgery,None,Abnormal,105.06,71.97,100.8,63,90
+Aarav Gupta,50,Male,+91 9895532669,Thyroid Disorder,Bypass Surgery,Cancer,Normal,108.69,92.73,100.8,67,94
+Priya Sharma,54,Female,+91 9860878282,Hypertension,Bypass Surgery,Diabetes,Slightly Abnormal,142.66,96.67,100.3,112,97
+Aditya Iyer,56,Female,+91 9851566328,Heart Disease,None,Hypertension,Abnormal,116.42,75.2,98,68,91
+Vivaan Sharma,65,Female,+91 9846316686,Hypertension,Appendectomy,Hypertension,Abnormal,160.25,85.1,97.8,97,100
+Sneha Sharma,28,Female,+91 9893137951,Heart Disease,Gallbladder Removal,Diabetes,Normal,121.32,87.75,98.1,103,96
+Kabir Bose,53,Female,+91 9834792363,None,None,Hypertension,Slightly Abnormal,112.96,67.82,101.9,76,99
+Ishita Sharma,77,Female,+91 9821819603,Hypertension,Appendectomy,None,Normal,172.92,64.58,101.9,87,95
+Anaya Bose,43,Female,+91 9891067981,Diabetes,Bypass Surgery,Diabetes,Normal,101.1,108.03,100.2,87,95
+Anaya Mehta,62,Male,+91 9818722201,Diabetes,Gallbladder Removal,Hypertension,Abnormal,137.15,107.95,99,115,100
+Aditya Iyer,74,Male,+91 9892071492,Asthma,Bypass Surgery,None,Slightly Abnormal,129.04,106.57,102.4,98,90
+Vivaan Bose,46,Male,+91 9828342334,Asthma,Cataract Surgery,Cancer,Slightly Abnormal,119.4,91.86,102.1,119,92
+Tanvi Verma,26,Female,+91 9849606556,Heart Disease,None,Diabetes,Normal,148.74,73.43,97.3,73,91
+Rohan Reddy,78,Male,+91 9885230000,Thyroid Disorder,Appendectomy,Cancer,Normal,176.04,81.54,102.2,74,90
+Vivaan Patel,41,Male,+91 9847305867,Thyroid Disorder,None,None,Normal,98.68,62.44,101.4,110,94
+Vivaan Mehta,52,Male,+91 9884796442,Hypertension,Appendectomy,Diabetes,Abnormal,129.67,69.89,98.8,105,93
+Priya Sharma,76,Male,+91 9831428342,Thyroid Disorder,Cataract Surgery,Diabetes,Normal,90.52,61.5,100.5,118,96
+Kabir Gupta,35,Male,+91 9853860602,Asthma,None,Hypertension,Abnormal,93.66,93.52,98.1,71,90
+Anaya Reddy,37,Female,+91 9827676558,Hypertension,Cataract Surgery,Heart Disease,Abnormal,132.98,97.16,101.5,87,94
+Tanvi Choudhary,31,Male,+91 9858910893,Thyroid Disorder,Bypass Surgery,Cancer,Abnormal,103.13,97.79,100.7,98,94
+Anaya Reddy,27,Male,+91 9823314816,Hypertension,Cataract Surgery,Hypertension,Normal,140.16,87.5,97.7,80,95
+Aditya Reddy,26,Male,+91 9841300182,Thyroid Disorder,None,Diabetes,Normal,114.18,80.28,100.5,109,99
+Vivaan Iyer,40,Female,+91 9884484584,Heart Disease,Gallbladder Removal,Hypertension,Abnormal,143.17,63.45,99.4,79,100
+Kabir Choudhary,58,Female,+91 9874281909,Hypertension,Cataract Surgery,None,Abnormal,106.15,93.9,101.4,76,94
+Rohan Choudhary,35,Male,+91 9892616109,Thyroid Disorder,Gallbladder Removal,Hypertension,Slightly Abnormal,122.92,108.2,97.7,64,100
+Vivaan Nair,75,Male,+91 9822251125,Thyroid Disorder,None,Heart Disease,Abnormal,170.7,94.8,100.8,63,94
+Sneha Choudhary,78,Male,+91 9832873228,Asthma,None,Heart Disease,Abnormal,170.91,91.24,101.7,109,98
+Sneha Verma,53,Male,+91 9893187157,Asthma,None,Diabetes,Abnormal,165.96,101.72,98.1,115,100
+Kabir Verma,59,Male,+91 9865925003,None,Cataract Surgery,Cancer,Slightly Abnormal,128.97,69.32,97.9,108,99
+Kabir Sharma,25,Female,+91 9842847799,Heart Disease,None,Diabetes,Slightly Abnormal,139.62,87.82,102.3,63,95
+Vivaan Reddy,38,Male,+91 9857887148,Asthma,Bypass Surgery,Diabetes,Slightly Abnormal,167.31,104.03,98.7,95,100
+Tanvi Gupta,59,Male,+91 9888029945,Thyroid Disorder,Bypass Surgery,Heart Disease,Abnormal,116.16,94.94,97.8,114,93
+Vivaan Bose,80,Male,+91 9847211227,Asthma,Bypass Surgery,Hypertension,Slightly Abnormal,104.41,78.97,100.5,81,90
+Rohan Verma,68,Female,+91 9825907945,Thyroid Disorder,Appendectomy,Diabetes,Slightly Abnormal,168.54,88.28,101.2,76,96
+Anaya Reddy,26,Male,+91 9878725045,None,None,Diabetes,Abnormal,144.23,100.62,101.6,119,96
+Priya Patel,67,Male,+91 9871810675,Heart Disease,None,None,Abnormal,171.35,96.79,100.6,75,91
+Rohan Sharma,48,Female,+91 9837981781,Diabetes,Gallbladder Removal,Hypertension,Abnormal,127.78,63.53,100.1,86,99
+Anaya Sharma,68,Female,+91 9845994982,Heart Disease,Bypass Surgery,Diabetes,Slightly Abnormal,150.35,85.02,100.4,104,92
+Kabir Iyer,26,Female,+91 9820123086,Diabetes,Gallbladder Removal,None,Normal,148.49,60.32,102.8,100,90
+Vivaan Verma,64,Female,+91 9862035649,None,Cataract Surgery,Cancer,Normal,103.73,91,100.6,96,96
+Sneha Iyer,61,Male,+91 9817249906,Heart Disease,Appendectomy,Diabetes,Abnormal,146.05,81.79,99.6,88,100
+Vivaan Sharma,30,Male,+91 9842399919,Asthma,Gallbladder Removal,Cancer,Slightly Abnormal,109.32,105.84,101.7,78,94
+Vivaan Patel,74,Female,+91 9855317138,Heart Disease,None,Heart Disease,Abnormal,150.84,99.45,100.8,96,94
+Ishita Choudhary,38,Female,+91 9831704085,Diabetes,None,Hypertension,Slightly Abnormal,161.37,65.81,98.5,106,97
+Vivaan Reddy,79,Male,+91 9855304190,Hypertension,Appendectomy,Cancer,Abnormal,145.3,65.2,100.8,99,97
+Aarav Iyer,60,Male,+91 9851906803,None,Appendectomy,Heart Disease,Abnormal,119.39,105.2,99.4,102,100
+Aditya Bose,28,Female,+91 9853338881,Asthma,Gallbladder Removal,Hypertension,Normal,136.02,81.97,102.7,114,98
+Rohan Nair,26,Male,+91 9833940085,Asthma,None,Cancer,Normal,113.79,91.08,99,90,95
+Kabir Sharma,42,Male,+91 9853298857,Diabetes,Appendectomy,Hypertension,Slightly Abnormal,173.68,75.06,98.4,80,92
+Sneha Reddy,57,Male,+91 9811077377,Thyroid Disorder,Cataract Surgery,Hypertension,Abnormal,159.46,86.89,100.9,71,92
+Ishita Nair,57,Female,+91 9882917432,Heart Disease,Cataract Surgery,Cancer,Abnormal,126.24,86.14,102.4,99,90
+Sneha Gupta,55,Female,+91 9855327297,Hypertension,None,Diabetes,Slightly Abnormal,119.99,88.67,98.4,86,93
+Rohan Mehta,46,Female,+91 9898128513,Hypertension,Bypass Surgery,Hypertension,Abnormal,162.83,88.92,100.7,75,98
+Vivaan Sharma,55,Female,+91 9835974668,Heart Disease,None,Cancer,Abnormal,139.56,108.38,98.4,119,92
+Vivaan Sharma,29,Female,+91 9821661782,Thyroid Disorder,Appendectomy,Hypertension,Normal,127.25,102.2,100.2,78,97
+Tanvi Choudhary,71,Male,+91 9866334992,Heart Disease,Bypass Surgery,None,Normal,154.15,85.14,100.7,111,98
+Priya Gupta,51,Female,+91 9824412486,Hypertension,Appendectomy,Diabetes,Abnormal,93.35,79.81,99.6,66,98
+Tanvi Iyer,52,Female,+91 9812506248,Hypertension,Gallbladder Removal,Heart Disease,Abnormal,107.53,75.64,102.5,87,97
+Vivaan Mehta,36,Female,+91 9827831833,Hypertension,Gallbladder Removal,None,Normal,171.79,82.33,102.6,62,93
+Aarav Choudhary,21,Female,+91 9885599102,Hypertension,Bypass Surgery,None,Normal,155.79,104.42,100.6,109,95
+Priya Verma,23,Female,+91 9894132630,Hypertension,Cataract Surgery,Diabetes,Slightly Abnormal,124.3,103.96,101,66,92
+Tanvi Verma,49,Male,+91 9899092144,Asthma,Appendectomy,Cancer,Abnormal,122.58,83.86,100.3,67,99
+Priya Choudhary,37,Female,+91 9873494563,Hypertension,Bypass Surgery,None,Abnormal,115.16,97.79,99.5,74,93
+Rohan Reddy,21,Male,+91 9816312350,Hypertension,Appendectomy,Cancer,Normal,131.28,76.69,100.4,112,99
+Priya Nair,55,Male,+91 9875660895,None,Cataract Surgery,Hypertension,Slightly Abnormal,142.89,78.56,102.5,81,94
+Kabir Mehta,69,Female,+91 9821493063,Diabetes,Appendectomy,Hypertension,Normal,147.61,74.52,101.4,113,91
+Tanvi Patel,37,Female,+91 9892607244,None,Gallbladder Removal,Heart Disease,Slightly Abnormal,115.38,65.58,99.3,89,93
+Kabir Verma,31,Male,+91 9826350075,Diabetes,Gallbladder Removal,Heart Disease,Slightly Abnormal,154.32,92.5,101.7,93,96
+Kabir Reddy,78,Female,+91 9835705024,Diabetes,Bypass Surgery,Cancer,Slightly Abnormal,164.69,68,99.7,107,100
+Aditya Gupta,61,Male,+91 9816213553,None,Appendectomy,None,Normal,149.93,80.24,98.5,99,97
+Sneha Reddy,43,Male,+91 9848317040,Thyroid Disorder,Cataract Surgery,Cancer,Slightly Abnormal,142.88,68.05,102.1,74,97
+Sneha Choudhary,33,Female,+91 9821072084,Asthma,Appendectomy,Heart Disease,Abnormal,158.09,91.88,101.1,120,99
+Kabir Mehta,71,Female,+91 9868986734,None,Bypass Surgery,Hypertension,Normal,150.92,85.48,99.3,117,93
+Anaya Mehta,78,Male,+91 9886764514,None,Bypass Surgery,Cancer,Abnormal,106.86,107.28,98.4,107,94
+Vivaan Choudhary,45,Male,+91 9838714636,Thyroid Disorder,None,Heart Disease,Abnormal,135.51,69.87,102.3,92,91
+Vivaan Choudhary,53,Male,+91 9853377186,Heart Disease,Cataract Surgery,None,Abnormal,171.1,88.84,102,116,96
+Ishita Mehta,76,Male,+91 9820877938,Hypertension,Gallbladder Removal,Diabetes,Abnormal,170.7,65.07,97.9,81,98
+Anaya Mehta,77,Male,+91 9810561284,None,Appendectomy,Hypertension,Slightly Abnormal,151.89,65.28,99.4,109,92
+Vivaan Mehta,78,Male,+91 9833143975,Asthma,Cataract Surgery,Diabetes,Abnormal,127.95,101.06,100.4,92,98
+Ishita Patel,63,Male,+91 9831533376,Diabetes,Appendectomy,Heart Disease,Slightly Abnormal,171.36,86.55,99.3,94,95
+Sneha Mehta,40,Female,+91 9829187526,Asthma,Appendectomy,Cancer,Slightly Abnormal,174.55,97.16,102,97,94
+Anaya Gupta,73,Female,+91 9815571184,Hypertension,Appendectomy,Hypertension,Normal,115.23,91.77,99.3,91,99
+Tanvi Patel,29,Male,+91 9830418395,Thyroid Disorder,Bypass Surgery,None,Abnormal,162.04,68.33,97.7,67,99
+Anaya Patel,56,Male,+91 9870738996,Diabetes,Bypass Surgery,Hypertension,Slightly Abnormal,171.73,84.12,97.3,85,93
+Anaya Patel,70,Male,+91 9841886526,Heart Disease,Gallbladder Removal,Heart Disease,Slightly Abnormal,142.94,87.28,100,80,95
+Sneha Mehta,68,Female,+91 9870564057,Thyroid Disorder,Appendectomy,Heart Disease,Slightly Abnormal,150.67,108.07,101.9,102,93
+Aditya Verma,35,Male,+91 9826242343,None,None,None,Slightly Abnormal,147.64,79.9,101.8,85,97
+Ishita Choudhary,39,Female,+91 9811657668,Heart Disease,Bypass Surgery,Heart Disease,Slightly Abnormal,117.98,104.84,102.5,97,99
+Priya Patel,68,Male,+91 9832129732,Hypertension,None,Cancer,Abnormal,141.33,77.94,98.5,111,99
+Kabir Gupta,65,Female,+91 9832651510,None,Cataract Surgery,Cancer,Abnormal,162.29,77.51,100.5,66,99
+Aditya Sharma,44,Male,+91 9853874484,Thyroid Disorder,Appendectomy,Hypertension,Abnormal,106.68,109.38,98.9,115,92
+Aarav Nair,52,Female,+91 9843954198,Heart Disease,Gallbladder Removal,Cancer,Normal,177.84,95.53,101.2,68,93
+Vivaan Nair,65,Male,+91 9821162841,Heart Disease,Bypass Surgery,Diabetes,Abnormal,109.83,89.11,102.1,120,100
+Priya Verma,49,Male,+91 9875847997,Hypertension,None,Heart Disease,Slightly Abnormal,99.87,83.28,99.4,62,93
+Aditya Reddy,44,Female,+91 9816293184,Asthma,Gallbladder Removal,Hypertension,Slightly Abnormal,104.73,75.76,99.1,103,90
+Vivaan Reddy,61,Female,+91 9844415481,Hypertension,Appendectomy,Heart Disease,Abnormal,145.41,76.2,97.6,82,96
+Sneha Verma,70,Male,+91 9883776615,None,Gallbladder Removal,None,Normal,157.96,97.4,102.2,106,93
+Anaya Sharma,51,Male,+91 9893856679,Thyroid Disorder,None,Heart Disease,Slightly Abnormal,135.24,101.17,97.3,61,93
+Kabir Gupta,29,Female,+91 9852964163,Asthma,None,None,Abnormal,122.81,69.2,99.6,97,96
+Vivaan Reddy,80,Male,+91 9884223013,Thyroid Disorder,None,None,Slightly Abnormal,163.49,94.05,98.7,95,93
+Aarav Gupta,67,Female,+91 9817502472,Asthma,None,None,Abnormal,153.21,66.45,102.1,95,96
+Sneha Reddy,67,Female,+91 9847738934,None,None,None,Slightly Abnormal,138.72,91,98.6,114,98
+Ishita Mehta,38,Female,+91 9857869345,Heart Disease,Cataract Surgery,Cancer,Normal,166.9,64.43,99.2,120,100
+Anaya Nair,70,Female,+91 9831188044,None,Cataract Surgery,Cancer,Slightly Abnormal,151.51,96.98,98.4,89,95
+Tanvi Sharma,44,Male,+91 9842703273,Asthma,Appendectomy,None,Slightly Abnormal,112.12,63.71,99.8,79,94
+Aarav Reddy,75,Male,+91 9837333518,None,Gallbladder Removal,None,Normal,141.56,84.63,97.8,66,91
+Aarav Nair,42,Male,+91 9844877079,Thyroid Disorder,Cataract Surgery,None,Slightly Abnormal,171.06,89.19,101,115,90
+Aditya Reddy,31,Male,+91 9855649398,Thyroid Disorder,Bypass Surgery,None,Normal,126.87,75.32,98.9,76,99
+Vivaan Patel,64,Female,+91 9896715405,Diabetes,Cataract Surgery,Diabetes,Normal,131.03,80.92,98.3,79,90
+Aarav Mehta,56,Male,+91 9853312320,Diabetes,Bypass Surgery,Heart Disease,Abnormal,123.6,88.75,99.1,119,92
+Kabir Gupta,31,Male,+91 9878132371,None,Bypass Surgery,Diabetes,Slightly Abnormal,161.81,80.63,100.2,89,98
+Tanvi Sharma,79,Male,+91 9817365848,Hypertension,Gallbladder Removal,None,Abnormal,137.42,100.2,102.5,80,90
+Vivaan Reddy,26,Female,+91 9895397180,Heart Disease,None,None,Normal,109.08,76.95,98.7,90,95
+Kabir Nair,51,Male,+91 9868573616,Thyroid Disorder,None,Diabetes,Abnormal,168.42,87.98,99.2,60,91
+Vivaan Gupta,60,Male,+91 9839735255,Diabetes,Appendectomy,Hypertension,Normal,139.23,70.78,98.2,70,96
+Aditya Reddy,68,Male,+91 9815419271,Hypertension,Cataract Surgery,Hypertension,Abnormal,146.33,97.1,100.4,71,92
+Tanvi Mehta,67,Female,+91 9859269253,Thyroid Disorder,Bypass Surgery,None,Normal,109.15,74.9,98.9,64,99
+Aarav Reddy,55,Male,+91 9856625396,Asthma,Gallbladder Removal,Cancer,Normal,141.1,71.38,101.6,98,95
+Sneha Patel,44,Male,+91 9813836307,Hypertension,None,Diabetes,Abnormal,92.82,87.15,98.4,106,99
+Sneha Iyer,22,Male,+91 9849316964,Thyroid Disorder,Gallbladder Removal,Heart Disease,Normal,159.42,61.21,102.3,91,98
+Aarav Nair,22,Male,+91 9811431470,Hypertension,Gallbladder Removal,Heart Disease,Normal,91.11,108.12,100.8,105,99
+Aarav Nair,73,Female,+91 9864196090,Heart Disease,Cataract Surgery,Diabetes,Slightly Abnormal,134.92,83.83,101.5,113,96
+Priya Choudhary,18,Male,+91 9899335908,Diabetes,Bypass Surgery,Heart Disease,Slightly Abnormal,159.29,60.79,101.3,117,100
+Kabir Mehta,72,Female,+91 9812404346,Diabetes,Appendectomy,Diabetes,Abnormal,122.34,75.32,97.2,92,97
+Rohan Gupta,61,Female,+91 9880274903,Thyroid Disorder,Gallbladder Removal,Hypertension,Normal,97.38,63.65,101.7,84,98
+Priya Iyer,38,Female,+91 9864905989,Heart Disease,None,Heart Disease,Normal,151.08,100.39,102.3,109,91
+Anaya Bose,20,Male,+91 9868020227,Thyroid Disorder,Gallbladder Removal,None,Slightly Abnormal,140.35,71.59,97.1,65,95
+Priya Reddy,40,Male,+91 9834326801,Diabetes,None,Diabetes,Normal,100.73,79.15,101.4,89,90
+Sneha Patel,66,Male,+91 9886476999,Hypertension,Cataract Surgery,Heart Disease,Slightly Abnormal,106.4,60.31,102,74,91
+Vivaan Mehta,57,Male,+91 9814739119,Asthma,Gallbladder Removal,Heart Disease,Normal,101.75,98.47,99.2,63,93
+Aditya Reddy,38,Male,+91 9893770114,Asthma,Appendectomy,Cancer,Slightly Abnormal,155.08,105.08,99.9,67,93
+Tanvi Patel,74,Female,+91 9826061146,Asthma,Cataract Surgery,Diabetes,Slightly Abnormal,104.85,73.12,98.5,93,100
+Vivaan Verma,48,Female,+91 9844895039,Asthma,Bypass Surgery,Hypertension,Slightly Abnormal,171.16,106.53,102.2,92,98
+Rohan Gupta,45,Female,+91 9824388364,Thyroid Disorder,Appendectomy,None,Normal,127.92,61.43,101.8,86,100
+Vivaan Choudhary,21,Female,+91 9844206206,None,None,Hypertension,Normal,112.98,80.77,98.4,119,100
+Priya Bose,34,Male,+91 9859882139,Asthma,Appendectomy,Cancer,Slightly Abnormal,119.84,69.98,99.6,101,91
+Aditya Verma,25,Female,+91 9865908400,None,Gallbladder Removal,Heart Disease,Slightly Abnormal,179.08,79.13,99.1,104,92
+Kabir Choudhary,25,Male,+91 9838172368,Thyroid Disorder,Gallbladder Removal,Hypertension,Normal,153.52,82.05,98.3,82,91
+Priya Nair,26,Male,+91 9835737676,Thyroid Disorder,Appendectomy,None,Slightly Abnormal,133.59,63.17,98.4,71,90
+Tanvi Verma,72,Female,+91 9833883509,None,Gallbladder Removal,Diabetes,Abnormal,96.15,66.11,98.4,98,91
+Anaya Choudhary,39,Male,+91 9890844004,None,Bypass Surgery,Diabetes,Abnormal,176.48,67.24,99.4,118,92
+Aarav Patel,73,Male,+91 9826910608,Asthma,None,Cancer,Abnormal,119.69,78.55,99.4,86,90
+Priya Choudhary,76,Male,+91 9886540161,Heart Disease,None,Heart Disease,Slightly Abnormal,129.15,105.28,102.6,95,90
+Kabir Sharma,64,Female,+91 9835953594,Diabetes,Bypass Surgery,Cancer,Slightly Abnormal,134.98,102.73,102.7,76,96
+Tanvi Iyer,65,Male,+91 9882534521,Thyroid Disorder,Appendectomy,Hypertension,Slightly Abnormal,129.33,80.84,101.5,107,90
+Vivaan Bose,39,Female,+91 9813582963,Asthma,Cataract Surgery,Diabetes,Normal,105.48,75.97,97.4,60,91
+Tanvi Verma,55,Male,+91 9823760087,Thyroid Disorder,Cataract Surgery,Hypertension,Slightly Abnormal,154.91,92.1,97.3,84,94
+Sneha Mehta,71,Female,+91 9834303541,None,Appendectomy,Cancer,Slightly Abnormal,125.92,86.7,101,68,90
+Kabir Iyer,74,Male,+91 9882000244,Hypertension,Gallbladder Removal,Heart Disease,Abnormal,103.09,84.55,97.5,101,90
+Ishita Iyer,71,Male,+91 9887349714,Thyroid Disorder,Cataract Surgery,Cancer,Slightly Abnormal,95.76,67.4,98.2,108,94
+Ishita Nair,59,Female,+91 9837553877,Hypertension,Gallbladder Removal,Heart Disease,Abnormal,117.51,61.25,97.7,88,94
+Anaya Nair,22,Female,+91 9830813682,None,None,Diabetes,Normal,152.38,97.27,101,109,100
+Vivaan Bose,44,Female,+91 9886035043,Diabetes,Appendectomy,None,Normal,122.74,64.16,98.3,108,91
+Aarav Nair,61,Male,+91 9855612178,None,Bypass Surgery,Hypertension,Slightly Abnormal,140.25,97.49,99.3,95,100
+Rohan Choudhary,33,Female,+91 9836467129,None,None,Hypertension,Abnormal,104.08,101.5,102.4,119,93
+Aditya Mehta,18,Male,+91 9861604604,Diabetes,Bypass Surgery,Hypertension,Slightly Abnormal,125.69,89.26,97.3,75,96
+Ishita Choudhary,52,Male,+91 9888846975,Thyroid Disorder,Cataract Surgery,Cancer,Slightly Abnormal,141.38,61.27,97.6,70,99
+Aditya Bose,47,Male,+91 9867973072,Asthma,Cataract Surgery,Diabetes,Slightly Abnormal,115.6,101.69,101.4,98,97
+Priya Reddy,73,Male,+91 9841342545,Asthma,Gallbladder Removal,None,Abnormal,117.2,63.8,102.8,83,94
+Ishita Bose,51,Male,+91 9833453295,Asthma,Gallbladder Removal,Diabetes,Normal,100.21,94.2,97.6,104,95
+Anaya Bose,40,Female,+91 9854655860,Thyroid Disorder,None,Cancer,Slightly Abnormal,143.01,69.61,99.6,85,100
+Tanvi Sharma,38,Male,+91 9852486949,Hypertension,None,Heart Disease,Normal,135.4,76.45,100.5,84,94
+Aarav Choudhary,65,Male,+91 9850775854,None,None,Cancer,Slightly Abnormal,126.28,108.12,99.7,69,91
+Aditya Patel,61,Female,+91 9830462808,None,Gallbladder Removal,Diabetes,Normal,127.93,62.72,97.3,105,97
+Aditya Patel,21,Male,+91 9860628732,None,Bypass Surgery,Diabetes,Normal,117.53,72.29,101,68,92
+Aditya Sharma,52,Male,+91 9895902281,Diabetes,Cataract Surgery,None,Normal,173.77,77.21,101.3,71,95
+Kabir Reddy,49,Male,+91 9898949446,None,Gallbladder Removal,None,Abnormal,124.05,84.14,97.3,65,94
+Tanvi Nair,48,Male,+91 9834245821,None,None,None,Normal,162.05,92.82,102.8,68,97
+Tanvi Verma,79,Female,+91 9830156165,None,Appendectomy,Diabetes,Slightly Abnormal,153.51,84.77,99.6,78,97
+Aarav Nair,42,Female,+91 9830899046,Asthma,Appendectomy,Cancer,Slightly Abnormal,176.88,83.72,100.1,98,100
+Vivaan Sharma,28,Male,+91 9849196266,Thyroid Disorder,Bypass Surgery,Cancer,Slightly Abnormal,103.95,91.85,97.6,120,100
+Rohan Reddy,55,Male,+91 9883658299,Thyroid Disorder,Bypass Surgery,None,Abnormal,148.3,83.95,97.2,64,98
+Ishita Choudhary,29,Male,+91 9894107670,Heart Disease,Appendectomy,None,Abnormal,125.16,60.7,100.2,118,98
+Sneha Iyer,64,Female,+91 9833683293,Asthma,Gallbladder Removal,Cancer,Slightly Abnormal,154.7,63.08,98.6,116,94
+Aarav Iyer,76,Female,+91 9878076566,Thyroid Disorder,Gallbladder Removal,Heart Disease,Normal,153.05,77.72,102.3,84,92
+Rohan Nair,28,Male,+91 9850867552,Thyroid Disorder,Gallbladder Removal,Diabetes,Normal,112.96,99.92,100.3,120,96
+Anaya Sharma,20,Male,+91 9848944731,Diabetes,Gallbladder Removal,None,Slightly Abnormal,128.75,108.49,102.3,71,90
+Rohan Reddy,51,Female,+91 9836723227,Hypertension,None,Heart Disease,Abnormal,140.03,94.93,98.6,94,97
+Ishita Sharma,74,Male,+91 9878563459,Thyroid Disorder,Gallbladder Removal,Heart Disease,Abnormal,172.48,71.21,100.2,79,98
+Anaya Nair,29,Male,+91 9861128063,Heart Disease,Appendectomy,None,Abnormal,108.16,98.55,100.6,118,98
+Anaya Verma,65,Female,+91 9845405396,Heart Disease,Bypass Surgery,Cancer,Slightly Abnormal,103.31,72.2,99.2,98,98
+Aarav Patel,76,Male,+91 9814541952,Diabetes,Appendectomy,Hypertension,Slightly Abnormal,114.74,103.35,100,62,100
+Anaya Verma,30,Female,+91 9859172316,Hypertension,Appendectomy,None,Abnormal,129.11,93.43,97.2,115,95
+Kabir Nair,22,Female,+91 9896871616,Diabetes,None,Cancer,Normal,128.3,94.24,101.2,109,90
+Tanvi Sharma,56,Female,+91 9816511852,None,Appendectomy,Cancer,Normal,139.75,74.82,99.1,65,98
+Kabir Iyer,66,Female,+91 9877417548,Thyroid Disorder,None,Hypertension,Normal,100.05,85.44,99.5,60,96
+Ishita Patel,47,Male,+91 9895500968,Diabetes,Appendectomy,Diabetes,Slightly Abnormal,140.82,95.5,101.5,118,92
+Priya Gupta,80,Male,+91 9865581859,Heart Disease,Appendectomy,Cancer,Abnormal,101.52,88.55,97.9,83,97
+Anaya Patel,26,Female,+91 9871215109,Thyroid Disorder,Bypass Surgery,Hypertension,Normal,116.42,76.6,100.5,116,97
+Tanvi Iyer,42,Male,+91 9845739257,Heart Disease,None,Diabetes,Normal,134.35,81.73,98.4,113,91
+Priya Gupta,48,Female,+91 9895152091,Diabetes,Appendectomy,None,Slightly Abnormal,123.54,76.65,101.8,107,93
+Kabir Choudhary,63,Male,+91 9826971299,Hypertension,Gallbladder Removal,Hypertension,Slightly Abnormal,158.55,104.67,100.4,75,91
+Sneha Mehta,74,Male,+91 9836996448,Asthma,Gallbladder Removal,Cancer,Abnormal,137.09,93.54,97.7,71,94
+Kabir Nair,60,Female,+91 9897768849,Heart Disease,Appendectomy,Hypertension,Abnormal,94.77,69.87,102.4,78,90
+Ishita Choudhary,58,Female,+91 9848958640,None,Gallbladder Removal,Cancer,Abnormal,130.69,106.72,100.1,69,92
+Aditya Mehta,50,Male,+91 9849884526,Thyroid Disorder,Cataract Surgery,None,Slightly Abnormal,99.63,88.1,102.3,69,90
+Anaya Sharma,18,Male,+91 9870162625,None,None,Diabetes,Slightly Abnormal,166.05,84.49,98.9,104,91
+Anaya Gupta,74,Female,+91 9825703277,None,Gallbladder Removal,Hypertension,Abnormal,150.63,101.92,102.4,64,94
+Rohan Mehta,48,Male,+91 9885520131,Asthma,Appendectomy,Hypertension,Abnormal,164.66,79.79,99,84,96
+Anaya Mehta,74,Female,+91 9880407451,Hypertension,Cataract Surgery,Diabetes,Normal,122.97,94.95,100.6,88,92
+Priya Gupta,61,Female,+91 9827849826,Thyroid Disorder,Cataract Surgery,Cancer,Normal,104.06,102.87,99.9,108,91
+Kabir Verma,51,Female,+91 9897295046,Hypertension,Gallbladder Removal,Diabetes,Normal,91.92,68.5,98.5,114,100
+Ishita Gupta,19,Male,+91 9884801869,Diabetes,Bypass Surgery,Hypertension,Slightly Abnormal,91.72,92.93,100.8,78,98
+Tanvi Verma,51,Female,+91 9869855317,Asthma,Cataract Surgery,Cancer,Slightly Abnormal,129.86,65.67,98.3,60,95
+Aditya Bose,20,Female,+91 9866833673,Asthma,None,Heart Disease,Slightly Abnormal,102.16,63.1,101.4,105,95
+Kabir Bose,35,Female,+91 9822169006,Thyroid Disorder,Gallbladder Removal,Diabetes,Normal,157.28,102.19,100,97,99
+Sneha Choudhary,68,Male,+91 9849295486,None,Gallbladder Removal,Diabetes,Abnormal,113.86,82.02,100.5,108,92
+Priya Reddy,18,Female,+91 9897805277,Thyroid Disorder,None,None,Abnormal,118.85,84.82,97.6,110,99
+Anaya Verma,26,Female,+91 9883734754,Asthma,None,Heart Disease,Normal,172.18,77.47,100.3,67,100
+Tanvi Iyer,41,Male,+91 9890744770,Hypertension,Appendectomy,None,Normal,93.06,67.5,100.4,66,100
+Vivaan Nair,35,Male,+91 9841756044,Asthma,None,Cancer,Normal,104.17,77.79,99.9,97,100
+Priya Patel,72,Female,+91 9898391084,Thyroid Disorder,Bypass Surgery,Heart Disease,Abnormal,119.01,108.82,100.6,105,95
+Tanvi Iyer,64,Male,+91 9876219739,Thyroid Disorder,Cataract Surgery,Cancer,Slightly Abnormal,112.63,67.84,99.2,60,94
+Tanvi Patel,50,Female,+91 9830017039,Asthma,Cataract Surgery,Hypertension,Abnormal,139.36,90.88,100.1,65,96
+Aarav Gupta,73,Male,+91 9822812085,Asthma,Appendectomy,Heart Disease,Abnormal,147.98,83.79,97.3,60,90
+Rohan Bose,46,Male,+91 9823981591,Heart Disease,Cataract Surgery,Cancer,Abnormal,117.66,72.91,100.3,69,97
+Rohan Mehta,43,Female,+91 9835492205,Heart Disease,None,Diabetes,Abnormal,147.05,83.28,98.7,77,99
+Aarav Sharma,33,Female,+91 9881723716,Diabetes,None,Cancer,Slightly Abnormal,169.32,80.66,98.5,103,94
+Ishita Sharma,24,Male,+91 9863238764,Hypertension,Bypass Surgery,Hypertension,Slightly Abnormal,100.54,74.13,99.2,108,98
+Rohan Sharma,37,Female,+91 9854547376,Diabetes,None,Hypertension,Abnormal,102.17,71.46,98.2,74,98
+Priya Verma,33,Female,+91 9869284636,Asthma,Bypass Surgery,Heart Disease,Normal,103.1,91.3,100.1,99,95
+Vivaan Reddy,59,Female,+91 9823144615,Thyroid Disorder,Bypass Surgery,Cancer,Abnormal,119.18,60.13,97.1,62,90
+Anaya Gupta,56,Male,+91 9877196076,Thyroid Disorder,Bypass Surgery,Diabetes,Normal,108.53,62.49,100.1,78,96
+Aarav Reddy,22,Female,+91 9814964131,Heart Disease,Cataract Surgery,None,Normal,143.4,60.13,101.4,111,91
+Tanvi Nair,49,Male,+91 9859676749,Hypertension,Appendectomy,Cancer,Abnormal,93.28,83.76,102.4,69,94
+Tanvi Patel,79,Female,+91 9897168548,Asthma,Appendectomy,Heart Disease,Slightly Abnormal,151.02,107.29,100.1,72,97
+Anaya Reddy,30,Male,+91 9859507562,Diabetes,Cataract Surgery,None,Abnormal,168.08,85.12,98.6,98,91
+Tanvi Choudhary,73,Male,+91 9856363462,Thyroid Disorder,Bypass Surgery,Hypertension,Abnormal,139.82,103.16,99.2,100,92
+Ishita Reddy,45,Female,+91 9829134924,Heart Disease,None,None,Abnormal,118.83,89.99,100.9,86,100
+Vivaan Patel,31,Female,+91 9860990742,Heart Disease,Cataract Surgery,Hypertension,Abnormal,139.61,85.96,97.4,85,91
+Rohan Reddy,34,Male,+91 9838645436,Asthma,Gallbladder Removal,Cancer,Normal,159.09,72.53,102.8,72,90
+Anaya Verma,62,Male,+91 9828490852,Asthma,Appendectomy,None,Slightly Abnormal,119.85,93.59,98.5,63,98
+Rohan Iyer,61,Female,+91 9863962485,Hypertension,Gallbladder Removal,Hypertension,Slightly Abnormal,161.75,109.26,99.4,64,100
+Vivaan Choudhary,51,Male,+91 9822476358,None,Gallbladder Removal,Cancer,Normal,142.38,77.51,98.4,91,99
+Sneha Gupta,58,Male,+91 9867426493,Hypertension,Gallbladder Removal,Hypertension,Abnormal,94.6,75.76,101.4,71,90
+Sneha Mehta,61,Female,+91 9879014449,Diabetes,None,Hypertension,Normal,147.95,69.4,100,84,97
+Tanvi Bose,37,Female,+91 9852525986,Heart Disease,Appendectomy,Cancer,Abnormal,157.78,72.93,100.5,106,92
+Rohan Iyer,53,Male,+91 9876332077,None,None,Cancer,Normal,94.12,76.96,100,86,92
+Priya Bose,79,Male,+91 9857819878,Asthma,Appendectomy,Cancer,Abnormal,155.57,62.47,99.8,116,92
+Aarav Mehta,59,Female,+91 9855495868,Asthma,Gallbladder Removal,None,Normal,139.36,70.09,99.8,105,92
+Anaya Nair,79,Female,+91 9817375068,Hypertension,Cataract Surgery,Cancer,Normal,135.74,61.38,100.8,79,90
+Sneha Reddy,28,Male,+91 9892770217,Thyroid Disorder,Appendectomy,Hypertension,Normal,151.48,93.45,97.6,66,100
+Aarav Choudhary,42,Male,+91 9863077273,Thyroid Disorder,Cataract Surgery,Hypertension,Normal,115.7,79.05,99.8,94,95
